@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Memory-Card/static/css/main.74f801d7.css",
+    "main.js": "/Memory-Card/static/js/main.18878dd3.js",
+    "static/media/owl1.jpg": "/Memory-Card/static/media/owl1.83ff190d4be11a128015.jpg",
+    "static/media/owl2.jpg": "/Memory-Card/static/media/owl2.96ced25f00f7b2d773ea.jpg",
+    "static/media/bird2.jpg": "/Memory-Card/static/media/bird2.8251b13cf975d2a4a3b7.jpg",
+    "static/media/owl.jpg": "/Memory-Card/static/media/owl.9d650bc993df7f2f2497.jpg",
+    "static/media/bird.jpg": "/Memory-Card/static/media/bird.f9797fe2458a8e47cdb3.jpg",
+    "static/media/sloth1.jpg": "/Memory-Card/static/media/sloth1.bec38ae49c84dd2eb4d8.jpg",
+    "static/media/penguin.jpg": "/Memory-Card/static/media/penguin.9f08270d67352e1bcd18.jpg",
+    "static/media/bird3.jpg": "/Memory-Card/static/media/bird3.e7add441322dc7cf38a8.jpg",
+    "static/media/penguin3.jpg": "/Memory-Card/static/media/penguin3.a44383670bbc2e70f1b1.jpg",
+    "static/media/sloth.jpg": "/Memory-Card/static/media/sloth.dfbc995319aa64d7f24b.jpg",
+    "static/media/bird1.jpg": "/Memory-Card/static/media/bird1.153c5cfa0350ed1704b0.jpg",
+    "static/media/penguin1.jpg": "/Memory-Card/static/media/penguin1.24c480a63f95ca251350.jpg",
+    "index.html": "/Memory-Card/index.html",
+    "main.74f801d7.css.map": "/Memory-Card/static/css/main.74f801d7.css.map",
+    "main.18878dd3.js.map": "/Memory-Card/static/js/main.18878dd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74f801d7.css",
+    "static/js/main.18878dd3.js"
+  ]
+}

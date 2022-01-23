@@ -1,0 +1,2 @@
+.header{align-items:center;display:flex;justify-content:space-between;padding-left:30px;padding-right:80px}.title-description{display:flex;flex-direction:column;gap:5px;margin-bottom:5px}*{box-sizing:border-box;font-family:Courier New,Courier,monospace;margin:0;padding:0}.grid-container{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}.image-container{cursor:pointer}
+/*# sourceMappingURL=main.74f801d7.css.map*/
