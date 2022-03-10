@@ -1,6 +1,6 @@
 
 import Header from "./Components/Header/Header";
-import react, { useState } from "react";
+import { useState } from "react";
 import "./App.css"
 import Images from "./Components/Images/Images";
 
