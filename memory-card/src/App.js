@@ -25,8 +25,8 @@ function App() {
       setBestscore(score);
       setScore(0);
       setImagesArray([]);
+      alert("You lost, you clicked on the same image twice :(")
     }
-    console.log(imagesArray)
   }
 
 
